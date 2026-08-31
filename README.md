@@ -1,4 +1,6 @@
 # **Walmart Retail Demand Forecasting System**
+![App demo (online-video-cutter com) (online-video-cutter com) (2)](https://github.com/user-attachments/assets/c88a0381-c552-4089-bb6f-a088417e9042)
+
 <img width="1536" height="1024" alt="ChatGPT Image Dec 18, 2025, 12_50_25 PM" src="https://github.com/user-attachments/assets/e5c87c13-07df-41eb-aacc-9eb887da04cf" />
 
 ### Building a Production-Ready Walmart Sales Forecasting Pipeline using Machine Learning & MLOps
